@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://42seoul.kr/seoul42/main/view)" target="_blank"><img src="https://img.shields.io/badge/42Seoul-FFFFFF?style=for-the-badge&logo=#000000&logoColor=FFFFFF"/></a>
+<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-FFFFFF?style=for-the-badge&logo=#000000&logoColor=FFFFFF"/></a>
