@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-FFFFFF?style=for-the-badge&logo=42&logoColor=FFFFFF"/></a>
+<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-blue?style=for-the-badge&logo=42&logoColor=black"/></a>
