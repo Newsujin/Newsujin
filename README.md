@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 //깃꾸
 -->
 
-<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-white?style=for-the-badge&logo=42&logoColor=black"/></a>
+<!-- <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-white?style=for-the-badge&logo=42&logoColor=black"/></a> -->
